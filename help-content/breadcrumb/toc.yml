@@ -1,0 +1,11 @@
+- name: Dokumentation
+  href: /
+  homepage: /
+  items:
+    - name: Leitfaden für Mitwirkende an der Dokumentation
+      href: /contribute/
+      homepage: /contribute/
+      items:
+        - name: Leitfaden für Mitwirkende
+          href: /contribute/contribute/
+          homepage: /contribute/contribute
